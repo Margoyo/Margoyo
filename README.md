@@ -5,3 +5,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-232A24?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Margarita_Bobrik)
 [![Instagram](https://img.shields.io/badge/-Instagram-232A24?style=for-the-badge&logo=instagram&logoColor=771A34)](https://www.instagram.com/margo_yo)
 [![Skype](https://img.shields.io/badge/-Skype-232A24?style=for-the-badge&logo=Skype&logoColor=318CE7)](https://join.skype.com/invite/AUMdXVun5MoL)
+
+### My CV:
+[Link to my CV](https://drive.google.com/file/d/1-8nHM8M7IuAklMngVWT4W0N8kFrgU4dI/view?usp=sharing)
